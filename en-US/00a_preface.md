@@ -39,7 +39,7 @@ computer device if you do not control its operating system. This is
 where Debian's main ambition comes from: producing the best, entirely
 Free operating system. For more than 20 years now, Debian has both
 developed a Free operating system and promoted a vision of Free Software
-around it. In so doing, Debian has set a very high bar for software
+around it. In doing so, Debian has set a very high bar for software
 freedom advocates around the world. Debian's decisions on matters of
 software licensing, for example, are routinely looked to by
 international standard organizations, governments, and other Free
