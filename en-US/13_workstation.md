@@ -414,7 +414,7 @@ in the sidebar [sidebar\_title](#sidebar.firefox-iceweasel), Debian
 *Jessie* contains Icedove, and not Thunderbird, but the only real
 differences between them are their names and icons.
 
-Various localization sets are available in *icedove-l10n-\** packages;
+Various localization sets are available in *icedove-l10n-*/* packages;
 the *enigmail* extension handles message encrypting and signing, but it
 is not available in all languages.
 
