@@ -414,7 +414,7 @@ in the sidebar [sidebar\_title](#sidebar.firefox-iceweasel), Debian
 *Jessie* contains Icedove, and not Thunderbird, but the only real
 differences between them are their names and icons.
 
-Various localization sets are available in *icedove-l10n-*/* packages;
+Various localization sets are available in *icedove-l10n-* packages;
 the *enigmail* extension handles message encrypting and signing, but it
 is not available in all languages.
 
@@ -651,10 +651,9 @@ as AbiWord and Gnumeric, this package is no longer part of Debian, with
 the individual packages now standing on their own.
 
 Language-specific packs for Libre Office are distributed in separate
-packages, most notably *libreoffice-l10n-\** and *libreoffice-help-\**.
+packages, most notably *libreoffice-l10n-* and *libreoffice-help-*.
 Some features such as spelling dictionaries, hyphenation patterns and
-thesauri are in separate packages, such as *myspell-\**, *hunspell-\**,
-*hyphen-\** and *mythes-\**.
+thesauri are in separate packages, such as *myspell-*, *hunspell-*, *hyphen-* and *mythes-*.
 
 Emulating Windows: Wine {#sect.windows-emulation}
 =======================
